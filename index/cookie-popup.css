@@ -9,7 +9,7 @@
   bottom: 0;
   left: 0;
   background-color: #333;
-  color: #fff;
+  color: #eb1717;
   padding: 2rem;
   text-align: center;
   font-size: 1.25rem;
@@ -19,7 +19,7 @@
 }
 
 #cookie-popup a {
-  color: #fff;
+  color: #ef3030;
 }
 
 #cookie-popup a:hover {
